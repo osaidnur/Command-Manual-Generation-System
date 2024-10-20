@@ -12,10 +12,9 @@ This repository contains a Python program that implements a command manual gener
    
 3. **Search Functionality**:
    - Allows users to search for any command and view detailed information about it.
-   - Recommends related commands based on similar functionality or name.
 
 4. **Command Suggestion (Recommendation)**:
-   - Offers suggestions for other commands during searches, helping users discover related commands.
+   - Recommends related commands based on similar functionality or name.
 
 ## Commands Covered
 
