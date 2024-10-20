@@ -39,7 +39,7 @@ This repository contains a Python program that implements a command manual gener
 - `date` – Display or set the system date and time
 - `ps` – Report the current processes running on the system
 
-## Important Note
+## Important Notes
 
 - **Command Manual Generation**: This operation requires the existence of the 'commands.txt' file, which contains the names of the 20 predefined commands. Ensure that this file is properly generated before running the generation process.
 
