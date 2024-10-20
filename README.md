@@ -41,8 +41,8 @@ This repository contains a Python program that implements a command manual gener
 
 ## Important Notes
 
-- **Command Manual Generation**: This operation requires the existence of the 'commands.txt' file, which contains the names of the 20 predefined commands. Ensure that this file is properly generated before running the generation process.
+- **Command Manual Generation**: This operation requires the existence of the `commands.txt` file, which contains the names of the 20 predefined commands. Ensure that this file is properly generated before running the generation process.
 
-- **Command Manual Verification**: This operation checks the integrity of the generated manuals by verifying the 'Commands.xml' file, which holds the command manuals. Ensure to generate the command manuals first, as the verification process depends on the 'Commands.xml' file being present and up to date.
+- **Command Manual Verification**: This operation checks the integrity of the generated manuals by verifying the `Commands.xml` file, which holds the command manuals. Ensure to generate the command manuals first, as the verification process depends on the `Commands.xml` file being present and up to date.
   
 
